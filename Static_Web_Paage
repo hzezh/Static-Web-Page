@@ -1,0 +1,276 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <title>RUBY ROMAN</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+  
+<body>
+    <div class="container-fluid">
+        <img src="banner.webp" alt="banner icon" class="banner-dimension">
+    </div>
+
+    <div class="container text-center">
+            <div class="row p-3 border-primary: 50px">
+                <div class="col-sm-6">
+                    <img src="about-us.webp" alt="people discussion" class="about-us-img">
+                </div>
+            <div class="col-sm-6">
+                <div class="row p-3">
+                    <div class="row p-3">
+                        <input type="button" value="About Us" class="about-us-button">
+                    </div>
+                    <div class="row p-3">
+                        <h2>Do You Want To Generate More</h2>
+                        <h2>We Know The Solution</h2>
+                        
+                        <h6><div class="about-us-sentence">From our SEO Services, YOU can always be the first in your business. We are dedicated to making you reach the peaks of s is - "No situation is too bad & everything can be done. We believe in conceptualizing & executing a solution that will make your online presence a name to speculate with Our SEO strategies have a 100 % success rate which makes us the best SEO company in India. Our team consists of skilled SEO strategists who have years of experience in Digital Marketing and so they have gained their knowledge after working in different industries. Our strategies will give you impacts instantly as you will see a jump in your traffic rate as soon as you start working with us</div></h6>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="package-backround">
+        <div class="container-fluid text-md-center" class="package-section">
+                <div class="col-sm-12" class="col-xl-6">
+                    <input type="button" value="Package" class="package-button">
+                </div>
+
+            <div class="container text-center">
+                <div class="col-sm-12"> 
+                    <h2><div class="our-affordable-packages">Our Affordable Packages<div></h2>
+                </div>
+            </div>  
+
+            <div class="container text-md-center">
+                <div class="row" class="package-background">
+                    
+                    <div class="col-sm-3" class="col-xl-12">
+                        <div class="packages-section"> 
+                            <div class="row-sm-3">
+                                <img src="packages icon/Packages-icon_1.webp" alt="package" class="packages-icon">
+                            </div>
+                            <div class="package-white">
+                                <div class="row-sm-3">
+                                    <h5>SEO Packages</h5>
+                                    <h6><div class="package-sentance">Get Top Rankings for your desired key phrases and start earning qulaity leads/inquiries and multilply your sales</div></h6>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-3" class="col-xl-12">
+                        <div class="packages-section"> 
+                            <div class="row-sm-3">
+                                <img src="packages icon/Packages-icon_1.webp" alt="package" class="packages-icon">
+                            </div>
+                            <div class="package-white">
+                                <div class="row-sm-3">
+                                    <h5>PPC Packages</h5>
+                                    <h6><div class="package-sentance">By outsourcing your PPC Management to us, a Google Certified Partner, You just need to relax and focus on the core</div></h6>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-3" class="col-xl-12">
+                        <div class="packages-section"> 
+                            <div class="row-sm-3">
+                                <img src="packages icon/Packages-icon_1.webp" alt="package" class="packages-icon">
+                            </div>
+                            <div class="package-white">
+                                <div class="row-sm-3">
+                                    <h5>Website Designing</h5>
+                                    <h6><div class="package-sentance">Website Design is no longer viewed as a small-time exercise for any business. We do it for you</div></h6>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-3" class="col-xl-12">
+                        <div class="packages-section"> 
+                            <div class="row-sm-3">
+                                <img src="packages icon/Packages-icon_1.webp" alt="package" class="packages-icon">
+                            </div>
+                            <div class="package-white">
+                                <div class="row-sm-3">
+                                    <h5>SEO Plan for Start-Up's</h5>
+                                    <h6><div class="package-sentance">With our SEO services in India, you can rest assured about ethical practices that we deploy for your website</div></h6>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            
+        </div>
+    </div>
+    
+    <div class="container text-center">
+        <input type="button" value="Services" class="services-button">
+    </div>
+    <div class="container text-center">
+        <div class="services-text-section">
+            <h2>Look No Further For The Best</h2>
+            <h2>Digitl Marketing Services!</h2>
+        </div>
+    </div>
+
+    <div class="container text-center">
+        <div class="row" class="services-section">
+            <div class="col-sm-12 col-xl-4">
+                <div class="row-sm-3">
+                    <img src="service-icon/seo.png" alt="speaker" class="seo-icon">
+                </div>
+                <div class="row-sm-3">
+                    <h5>SEO</h5>
+                    <h6>Get Top Rankings for your desired key phrases and start earning qulaity leads/inquiries and multilply your sales</h6>
+                </div>
+            </div>
+
+            <div class="col-sm-12 col-xl-4">
+                <div class="row-sm-3">
+                    <img src="service-icon/sem.png" alt="speaker" class="sem-icon">
+                </div>
+                <div class="row-sm-3">
+                    <h5>SEM</h5>
+                    <h6>Get Top Rankings for your desired key phrases and start earning qulaity leads/inquiries and multilply your sales</h6>
+                </div>
+            </div>
+
+            <div class="col-sm-12 col-xl-4">
+                <div class="row-sm-3">
+                    <img src="service-icon/orm.png" alt="speaker" class="orm-icon">
+                </div>
+                <div class="row-sm-3">
+                    <h5>ORM</h5>
+                    <h6>Get Top Rankings for your desired key phrases and start earning qulaity leads/inquiries and multilply your sales</h6>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-12 col-xl-4">
+                    <div class="row-sm-3">
+                        <img src="service-icon/socialmedia.png" alt="letter" class="socialmedia-icon">
+                    </div>
+                    <div class="row-sm-3">
+                        <h5>Socail Media</h5>
+                        <h6>Get Top Rankings for your desired key phrases and start earning qulaity leads/inquiries and multilply your sales</h6>
+                    </div>
+                </div>
+
+                <div class="col-sm-12 col-xl-4">
+                    <div class="row-sm-3">
+                        <img src="service-icon/web design.png" alt="searching" class="web-design-icon">
+                    </div>
+                    <div class="row-sm-3">
+                        <h5>Web Design</h5>
+                        <h6>Get Top Rankings for your desired key phrases and start earning qulaity leads/inquiries and multilply your sales</h6>
+                    </div>
+                </div>
+                
+                <div class="col-sm-12 col-xl-4">
+                    <div class="row-sm-3">
+                        <img src="service-icon/white-label.png" alt="web" class="white-label-icon">
+                    </div>
+                    <div class="row-sm-3">
+                        <h5>White Label SEO</h5>
+                        <h6>Get Top Rankings for your desired key phrases and start earning qulaity leads/inquiries and multilply your sales</h6>
+                    </div>
+                </div>
+            </div>
+        </div>        
+    </div>
+
+    <div class="work-area">
+        <div class="container text-center">
+            <div class="col-sm-12" class="col-xl-6">
+                <input type="button" value="Work" class="work-button">
+            </div>
+        </div>
+        <div class="container text-center">
+            <div class="simple-section">
+                <div class="col-sm-12">
+                    <h2>How It Work</h2>
+                    <h5>A Simple 1-2-3 Is How It Works !</h5>
+                </div>
+            </div>
+        </div>  
+
+        <div class="container text-center">
+            <div class="row work-column">
+                <div class="col-sm-4" class="col-xl-12" class="Analyze-section">
+                    <div class="row-sm-3">
+                        <img src="how it works/analyse (1).webp" alt="analyze" class="analyze-icon">
+                    </div>
+                    <div class="row-sm-3">
+                        <h5><div class="analyze-sentence">Analyze</div></h5>
+                        <h6>In-depth research of your website, competitors and industry</h6>
+                    </div>
+                </div>
+
+                <div class="col-sm-4" class="col-xl-12" class="strategize-section">
+                    <div class="row-sm-3">
+                        <img src="how it works/staragize.webp" alt="question to group" class="stategize-icon">
+                    </div>
+                    <div class="row-sm-3">
+                        <h5><div class="strategize-sentence">Strategize</div></h5>
+                        <h6>A suitable startegy is framed  & upon your approval, it is executed</h6>
+                    </div>
+                </div>
+                <div class="col-sm-4" class="col-xl-12" class="Implement-section">
+                    <div class="row-sm-3">
+                        <img src="how it works/implement.webp" alt="appropved" class="implement-icon">
+                    </div>
+                    <div class="row-sm-3">
+                        <h5><div class="implementation-sentence">Implement</div></h5>
+                        <h6>Outcome provided are being monitored for consistency and scope to improvement</h6>
+                    </div>
+                </div>
+            <div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="col-sm-12" class="col-xl-6" >
+            <input type="button" value="Testimonial" class="testimonial-button">
+        </div>
+    </div>
+    <div class="container text-center">
+        <div class="col-sm-12">
+            <h2><div  class="client-review-sentence">Clinet Review</div></h2>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            
+            <div class="col-sm-6" class="col-xl-12" class="Analyze-section">
+                <div class="row-sm-3">
+                    <img src="man1.jpg" alt="man" class="man1-icon">
+                </div>
+                <div class="row-sm-3">
+                    <h6><div class="client1">The SEO team is absolutely phenomenal. They first listen to me closely & drive good traffic to our website. Many customers got engaged with my website day by day. Before it was quite hard for us to handle but now it's very easy for me as I am happy with this team. They show professionalism in their work and even the support team is amazing. Overall it's a great company to start a website and expand your business online. - Mohammad Rafi.</div></h6>
+                </div>
+            </div>
+
+            <div class="col-sm-6" class="col-xl-12" class="Strategize-section">
+                <div class="row-sm-3">
+                    <img src="man2.jpg" alt="man" class="man2-icon">
+                </div>
+                <div class="row-sm-3">
+                    <h6><div class="client2">Got a cost-efficient SEO expert team for my website. I have been running an online store for nearly 4 years. I have seen many ups and downs but online presence is one of the major factors as of now. I started enquiring about the best SEO services and I found one. I gave all inputs to the expert's team and now my website is ranking good for some of my business-specific keywords. After signing up with this company the traffic to my website is admirable and they provide good customer support thanks to them. - Kishore Karan</div></h6>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
